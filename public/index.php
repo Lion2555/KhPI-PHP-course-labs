@@ -1,1 +1,2 @@
-- echo "It's work!";
+<?php
+echo "It's work!";
